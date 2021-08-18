@@ -1,0 +1,35 @@
+body{
+	background-image: url(fundo.png);
+	width:900px;
+	font-size: 16px
+}
+#menu{
+	background:#c5c5b2;
+	padding: 18px
+	
+}
+
+a{
+	color:darkblue;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px
+}
+
+#conteudo{
+	background:#e8e8d9;
+	padding: 10px
+}
+
+.centralizar{
+	text-align: center;
+}
+
+h2{
+	color:#828271;
+	font-size: 1.2em
+}
+
+.imgem{
+	border:10px solid #c3c3ae;
+}
